@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1642362418 source:c:\users\hp\desktop\programski jezici i prog\wvarwvwva\untitled1.cpp
+	"biblioteka.h"
+	<string.h>
+
+1642362363 c:\users\hp\desktop\programski jezici i prog\wvarwvwva\biblioteka.h
+	<vector>
+	<string>
+	<algorithm>
+	<iostream>
+
+1642363178 source:c:\users\hp\desktop\programski jezici i prog\projektni zadatak\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	"biblioteka.h"
+	<cstdlib>
+
+1642362363 c:\users\hp\desktop\programski jezici i prog\projektni zadatak\biblioteka.h
+	<vector>
+	<string>
+	<algorithm>
+	<iostream>
+
+1642362418 source:c:\users\hp\desktop\programski jezici i prog\projektni zadatak\untitled1.cpp
+	"biblioteka.h"
+	<string.h>
+
+1642717243 source:c:\users\nelo\downloads\projektni zadatak\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	"biblioteka.h"
+	<cstdlib>
+	"conio.h"
+
+1642367505 c:\users\nelo\downloads\projektni zadatak\biblioteka.h
+	<vector>
+	<string>
+	<algorithm>
+	<iostream>
+
+1642362418 source:c:\users\nelo\downloads\projektni zadatak\untitled1.cpp
+	"biblioteka.h"
+	<string.h>
+
+1642717243 source:c:\users\model\desktop\pjip - projektni zadatak final\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	"biblioteka.h"
+	<cstdlib>
+	"conio.h"
+
+1642367505 c:\users\model\desktop\pjip - projektni zadatak final\biblioteka.h
+	<vector>
+	<string>
+	<algorithm>
+	<iostream>
+
+1642362418 source:c:\users\model\desktop\pjip - projektni zadatak final\untitled1.cpp
+	"biblioteka.h"
+	<string.h>
+
